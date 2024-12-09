@@ -1,0 +1,9 @@
+{
+    "name": "the-christmas-lorax",
+    "version": "0.1.0",
+    "title": "The Christmas Lorax",
+    "author": "Shallot",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 1.1"],
+    "description": "This mod adds in some Christmas spirit"
+  }
